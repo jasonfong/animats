@@ -1,0 +1,4 @@
+animats
+=======
+
+Autonomous agents simulation
